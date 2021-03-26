@@ -125,7 +125,7 @@ setup(
         "azure-storage-common==2.1.0",
         "geopy==2.0.0",
         "pandas==0.25.3",
-        "PyYAML==5.3.1"
+        "PyYAML==5.4"
     ],
     entry_points={
         "console_scripts": [
